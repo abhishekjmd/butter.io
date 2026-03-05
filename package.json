@@ -1,0 +1,17 @@
+{
+  "name": "figma-ai-mvp",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate": "tsx scripts/generate.ts",
+    "validate": "tsx scripts/validate.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

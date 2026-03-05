@@ -1,0 +1,8 @@
+{
+  "name": "Figma AI MVP",
+  "id": "figma-ai-mvp-001",
+  "api": "1.0.0",
+  "main": "plugin/code.js",
+  "ui": "plugin/ui.html",
+  "editorType": ["figma"]
+}

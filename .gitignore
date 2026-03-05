@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Build / cache outputs
+dist/
+build/
+coverage/
+.npm/
+.pnpm-store/
+.parcel-cache/
+.next/
+.turbo/
+*.tsbuildinfo
+
+# Runtime logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Local generated output
+test-output/*.json
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Misc temp files
+*.tmp
+*.temp
