@@ -21,7 +21,7 @@ No auth. No database. No deployment. Runs locally in ~5 minutes.
           â†“
 [Fully editable Figma design âœ“]
 ```
-
+........
 ---
 
 ## Setup
