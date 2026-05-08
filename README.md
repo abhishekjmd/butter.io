@@ -1,4 +1,4 @@
-﻿# Figma AI MVP â€” Idea Validator
+﻿# Figma AI MVP Idea Validator
 
 A minimal testbed to validate: **"Can AI generate JSON that a Figma plugin turns into a real, editable design?"**
 
